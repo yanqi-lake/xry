@@ -280,7 +280,7 @@ def main():
                 fontsize=13, fontweight='bold')
     ax3.set_xticks(x)
     ax3.set_xticklabels(order, rotation=45, ha='right')
-    ax3.set_ylim(0, 1.1)
+    ax3.set_ylim(0.93, 0.96)
     ax3.spines['top'].set_visible(False)
     ax3.spines['right'].set_visible(False)
     ax3.axhline(y=np.mean(comp_values), color='red', linestyle='--', linewidth=1, 
