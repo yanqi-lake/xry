@@ -1,0 +1,13 @@
+﻿评分维度,复杂度方法,Pearson r,p-value,显著性
+f,Shannon,0.5765,0.1042,ns
+f,Average Vector,-0.0604,0.8774,ns
+f,RdKit,0.5181,0.1531,ns
+v,Shannon,0.6319,0.0679,ns
+v,Average Vector,-0.0839,0.8301,ns
+v,RdKit,0.4909,0.1796,ns
+i,Shannon,0.1587,0.6835,ns
+i,Average Vector,0.5843,0.0985,ns
+i,RdKit,0.3235,0.3958,ns
+c,Shannon,-0.086,0.826,ns
+c,Average Vector,0.4873,0.1834,ns
+c,RdKit,-0.0352,0.9283,ns
